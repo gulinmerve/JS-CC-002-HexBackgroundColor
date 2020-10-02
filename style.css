@@ -1,0 +1,25 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.color-label {
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+  padding: 10px;
+  border: 2px dashed #e0e0e0;
+}
+#colorInput{
+  border-radius: 5px;
+}
+.button{
+  border-radius: 5px;
+}
